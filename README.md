@@ -154,8 +154,8 @@ Right now, I am especially interested in:
       <a href="https://github.com/LucyAlex12/civic-issue-tracker-web-app">Code</a>
     </td>
     <td width="33%">
-      <h3>Budget Wise</h3>
-      <p>Personal finance web app for income, expenses, balance, and savings goals.</p>
+      <h3>Budget Wise Naija</h3>
+      <p>Nigerian personal finance web app for naira income, expenses, balance, and savings goals.</p>
       <a href="https://lucyalex12.github.io/budget-wise-web-app/">Live app</a> |
       <a href="https://github.com/LucyAlex12/budget-wise-web-app">Code</a>
     </td>
@@ -175,8 +175,42 @@ Right now, I am especially interested in:
 <p>
   <a href="https://lucyalex12.github.io/chi-cafe-site/">Chi Cafe</a> |
   <a href="https://lucyalex12.github.io/civic-issue-tracker-web-app/">Civic Issue Tracker</a> |
-  <a href="https://lucyalex12.github.io/budget-wise-web-app/">Budget Wise</a>
+  <a href="https://lucyalex12.github.io/budget-wise-web-app/">Budget Wise Naija</a> |
+  <a href="https://lucyalex12.github.io/jollof-rush-web-game/">Jollof Rush</a>
 </p>
+
+---
+
+## Naija Web Apps
+
+<table>
+  <tr>
+    <td width="25%">
+      <h3>Naija Market Basket</h3>
+      <p>Compare common Nigerian food prices and build a market basket in naira.</p>
+      <a href="https://lucyalex12.github.io/naija-market-basket-web-app/">Live app</a> |
+      <a href="https://github.com/LucyAlex12/naija-market-basket-web-app">Code</a>
+    </td>
+    <td width="25%">
+      <h3>Lagos Commute Planner</h3>
+      <p>Estimate sample Lagos transport fares, route types, and travel times.</p>
+      <a href="https://lucyalex12.github.io/lagos-commute-planner-web-app/">Live app</a> |
+      <a href="https://github.com/LucyAlex12/lagos-commute-planner-web-app">Code</a>
+    </td>
+    <td width="25%">
+      <h3>Naija CGPA Planner</h3>
+      <p>Plan semester GPA with Nigerian university-style units and grades.</p>
+      <a href="https://lucyalex12.github.io/naija-cgpa-planner-web-app/">Live app</a> |
+      <a href="https://github.com/LucyAlex12/naija-cgpa-planner-web-app">Code</a>
+    </td>
+    <td width="25%">
+      <h3>Jollof Rush</h3>
+      <p>Canvas web game where you catch jollof ingredients and avoid burnt pots.</p>
+      <a href="https://lucyalex12.github.io/jollof-rush-web-game/">Play game</a> |
+      <a href="https://github.com/LucyAlex12/jollof-rush-web-game">Code</a>
+    </td>
+  </tr>
+</table>
 
 ---
 

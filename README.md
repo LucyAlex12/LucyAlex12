@@ -126,6 +126,48 @@ Right now, I am especially interested in:
 
 ---
 
+## Project Lab
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Public Health Vaccination Analysis</h3>
+      <p>Python analysis of vaccination coverage, booster uptake, and priority regions for outreach.</p>
+      <a href="https://github.com/LucyAlex12/public-health-vaccination-analysis">View project</a>
+    </td>
+    <td width="33%">
+      <h3>Customer Churn Risk Analysis</h3>
+      <p>Data analysis project that scores churn risk and builds a retention action queue.</p>
+      <a href="https://github.com/LucyAlex12/customer-churn-risk-analysis">View project</a>
+    </td>
+    <td width="33%">
+      <h3>Clean Energy Trends Dashboard</h3>
+      <p>Streamlit dashboard for renewable share, emissions intensity, and grid reliability.</p>
+      <a href="https://github.com/LucyAlex12/clean-energy-trends-dashboard">View project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3>Civic Issue Tracker</h3>
+      <p>Local-first JavaScript web app for tracking community infrastructure issues.</p>
+      <a href="https://github.com/LucyAlex12/civic-issue-tracker-web-app">View project</a>
+    </td>
+    <td width="33%">
+      <h3>Budget Wise</h3>
+      <p>Personal finance web app for income, expenses, balance, and savings goals.</p>
+      <a href="https://github.com/LucyAlex12/budget-wise-web-app">View project</a>
+    </td>
+    <td width="33%">
+      <h3>Mobile App Concepts</h3>
+      <p>Expo apps for medication reminders and campus safety reporting workflows.</p>
+      <a href="https://github.com/LucyAlex12/med-reminder-mobile-app">Med app</a> |
+      <a href="https://github.com/LucyAlex12/campus-safety-mobile-app">Safety app</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Tech Inventory
 
 <div align="center">
@@ -172,8 +214,10 @@ Right now, I am especially interested in:
 [x] Build and ship GitHub Pages projects
 [x] Explore AI + 3D generation
 [x] Practice data analysis with notebooks
+[x] Publish runnable data-analysis repositories
+[x] Add web app and mobile app project concepts
+[x] Add live AI/dashboard-style project structure
 [ ] Add playable browser game demo
-[ ] Add live AI dashboard project
 [ ] Add case studies for strongest projects
 ```
 

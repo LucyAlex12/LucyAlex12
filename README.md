@@ -215,6 +215,36 @@ Right now, I am especially interested in:
 
 ---
 
+## AI Engineering Lab
+
+<table>
+  <tr>
+    <td width="25%">
+      <h3>RAG Knowledge Assistant</h3>
+      <p>Local retrieval assistant with TF-IDF ranking, grounded answers, and citations.</p>
+      <a href="https://github.com/LucyAlex12/ai-rag-knowledge-assistant">Code</a>
+    </td>
+    <td width="25%">
+      <h3>Prompt Evaluation Lab</h3>
+      <p>Repeatable prompt/output evaluation harness with rubric scoring and reports.</p>
+      <a href="https://github.com/LucyAlex12/prompt-evaluation-lab">Code</a>
+    </td>
+    <td width="25%">
+      <h3>Intent Classifier</h3>
+      <p>Pure Python customer support intent classifier using a Naive Bayes text model.</p>
+      <a href="https://github.com/LucyAlex12/ai-customer-intent-classifier">Code</a>
+    </td>
+    <td width="25%">
+      <h3>Model Monitoring</h3>
+      <p>AI monitoring dashboard for latency, confidence, drift, and error-rate signals.</p>
+      <a href="https://lucyalex12.github.io/ai-model-monitoring-dashboard/">Live dashboard</a> |
+      <a href="https://github.com/LucyAlex12/ai-model-monitoring-dashboard">Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Game Dev Builds
 
 <table>

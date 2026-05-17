@@ -150,12 +150,14 @@ Right now, I am especially interested in:
     <td width="33%">
       <h3>Civic Issue Tracker</h3>
       <p>Local-first JavaScript web app for tracking community infrastructure issues.</p>
-      <a href="https://github.com/LucyAlex12/civic-issue-tracker-web-app">View project</a>
+      <a href="https://lucyalex12.github.io/civic-issue-tracker-web-app/">Live app</a> |
+      <a href="https://github.com/LucyAlex12/civic-issue-tracker-web-app">Code</a>
     </td>
     <td width="33%">
       <h3>Budget Wise</h3>
       <p>Personal finance web app for income, expenses, balance, and savings goals.</p>
-      <a href="https://github.com/LucyAlex12/budget-wise-web-app">View project</a>
+      <a href="https://lucyalex12.github.io/budget-wise-web-app/">Live app</a> |
+      <a href="https://github.com/LucyAlex12/budget-wise-web-app">Code</a>
     </td>
     <td width="33%">
       <h3>Mobile App Concepts</h3>
@@ -165,6 +167,16 @@ Right now, I am especially interested in:
     </td>
   </tr>
 </table>
+
+---
+
+## Live Web Experiences
+
+<p>
+  <a href="https://lucyalex12.github.io/chi-cafe-site/">Chi Cafe</a> |
+  <a href="https://lucyalex12.github.io/civic-issue-tracker-web-app/">Civic Issue Tracker</a> |
+  <a href="https://lucyalex12.github.io/budget-wise-web-app/">Budget Wise</a>
+</p>
 
 ---
 

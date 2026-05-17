@@ -176,7 +176,8 @@ Right now, I am especially interested in:
   <a href="https://lucyalex12.github.io/chi-cafe-site/">Chi Cafe</a> |
   <a href="https://lucyalex12.github.io/civic-issue-tracker-web-app/">Civic Issue Tracker</a> |
   <a href="https://lucyalex12.github.io/budget-wise-web-app/">Budget Wise Naija</a> |
-  <a href="https://lucyalex12.github.io/jollof-rush-web-game/">Jollof Rush</a>
+  <a href="https://lucyalex12.github.io/jollof-rush-web-game/">Jollof Rush</a> |
+  <a href="https://lucyalex12.github.io/lagos-delivery-dash-web-game/">Lagos Delivery Dash</a>
 </p>
 
 ---
@@ -206,6 +207,27 @@ Right now, I am especially interested in:
     <td width="25%">
       <h3>Jollof Rush</h3>
       <p>Canvas web game where you catch jollof ingredients and avoid burnt pots.</p>
+      <a href="https://lucyalex12.github.io/jollof-rush-web-game/">Play game</a> |
+      <a href="https://github.com/LucyAlex12/jollof-rush-web-game">Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Game Dev Builds
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Lagos Delivery Dash</h3>
+      <p>Lane-based canvas game with a Lagos delivery rider, packages, fuel, traffic hazards, levels, pause, mobile controls, and saved high score.</p>
+      <a href="https://lucyalex12.github.io/lagos-delivery-dash-web-game/">Play game</a> |
+      <a href="https://github.com/LucyAlex12/lagos-delivery-dash-web-game">Code</a>
+    </td>
+    <td width="50%">
+      <h3>Jollof Rush</h3>
+      <p>Fast canvas game using visible food icons, score tracking, pause/resume, and keyboard or touch movement.</p>
       <a href="https://lucyalex12.github.io/jollof-rush-web-game/">Play game</a> |
       <a href="https://github.com/LucyAlex12/jollof-rush-web-game">Code</a>
     </td>

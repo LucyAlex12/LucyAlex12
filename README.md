@@ -16,9 +16,9 @@
 
 ```txt
 Name       : Arinze Chioma Lucy
-Identity   : Software Developer + AI Engineer + Data Analyst + Game Developer + XR developer
+Identity   : Software Developer + AI Engineer + Data Analyst + Game Developer + XR developer + Mobile App Developer + Tutor
 Location   : Nigeria
-Focus      : interactive web apps, AI systems, data analytics, dashboards, and playable experiences
+Focus      : interactive web and mobile apps, AI systems, data analytics, dashboards, and playable experiences
 Style      : polished interfaces, useful workflows, clear storytelling, and practical engineering
 ```
 
